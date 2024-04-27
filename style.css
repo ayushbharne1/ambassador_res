@@ -21,7 +21,7 @@ html,body{
     left: -23%;
     width: 700px;
     height: 700px;
-    border: 4vw solid white;
+    border: 4vw solid grey;
     border-radius: 50%;
 }
 #text{
